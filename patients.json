@@ -1,0 +1,104 @@
+[
+    {
+        "nom_complet": "Fatima Ait Ahmed",
+        "email": "f.aitahmed@example.com",
+        "tel": "0654123879",
+        "description": "Mariée depuis 3 ans, souffre d'endométriose depuis l'âge de 18 ans."
+    },
+    {
+        "nom_complet": "Sofiane Boudjema",
+        "email": "s.boudjema@example.com",
+        "tel": "0698173642",
+        "description": "Célibataire, a un sperme de qualité moyenne. A essayé sans succès de concevoir un enfant avec son ex-petite amie."
+    },
+    {
+        "nom_complet": "Leila Khelifi",
+        "email": "l.khelifi@example.com",
+        "tel": "0650987213",
+        "description": "Mariée depuis 5 ans, n'a jamais été enceinte. A un cycle menstruel irrégulier."
+    },
+    {
+        "nom_complet": "Mehdi Toumi",
+        "email": "m.toumi@example.com",
+        "tel": "0675349821",
+        "description": "Marié depuis 2 ans, souffre d'oligospermie (faible concentration de spermatozoïdes)."
+    },
+    {
+        "nom_complet": "Nadia Bouzidi",
+        "email": "n.bouzidi@example.com",
+        "tel": "0697154328",
+        "description": "Mariée depuis 1 an, a subi une fausse couche il y a quelques mois. A une anomalie de l'utérus (utérus bicorne)."
+    },
+    {
+        "nom_complet": "Rachid Zouaoui",
+        "email": "r.zouaoui@example.com",
+        "tel": "0682365910",
+        "description": "Marié depuis 4 ans, a une varicocèle (dilatation des veines dans les testicules) qui affecte sa fertilité."
+    },
+    {
+        "nom_complet": "Samira Meziane",
+        "email": "s.meziane@example.com",
+        "tel": "0663452189",
+        "description": "Mariée depuis 6 ans, a des fibromes utérins qui empêchent la nidation de l'embryon."
+    },
+    {
+        "nom_complet": "Amine Belkacem",
+        "email": "a.belkacem@example.com",
+        "tel": "0698574213",
+        "description": "Célibataire, a une malformation congénitale des testicules qui affecte sa fertilité."
+    },
+    {
+        "nom_complet": "Kenza Ben Ali",
+        "email": "k.benali@example.com",
+        "tel": "0658712934",
+        "description": "Mariée depuis 3 ans, a subi une ablation d'une trompe de Fallope suite à une grossesse extra-utérine."
+    },
+    {
+        "nom_complet": "Mounir Boumediene",
+        "email": "m.boumediene@example.com",
+        "tel": "0678123456",
+        "description": "Marié depuis 2 ans, souffre d'une asthénozoospermie (faible mobilité des spermatozoïdes) qui affecte sa fertilité. Il a également été diagnostiqué avec un varicocèle, ce qui peut aggraver sa condition."
+    },
+    {
+        "nom_complet": "Sara Kaci",
+        "email": "s.kaci@example.com",
+        "tel": "0698034512",
+        "description": "Mariée depuis 4 ans, a une endométriose légère qui peut affecter sa fertilité."
+    },
+    {
+        "nom_complet": "Amar Djelloul",
+        "email": "a.djelloul@example.com",
+        "tel": "0657865432",
+        "description": "Marié depuis 1 an, a subi une chimiothérapie pour traiter un cancer du testicule. La chimiothérapie peut affecter la qualité du sperme."
+    },
+    {
+        "nom_complet": "Nawel Chibani",
+        "email": "n.chibani@example.com",
+        "tel": "0687123456",
+        "description": "Mariée depuis 3 ans, a des ovaires polykystiques qui affectent sa fertilité."
+    },
+    {
+        "nom_complet": "Ali Hadjouti",
+        "email": "a.hadjouti@example.com",
+        "tel": "0658943271",
+        "description": "Marié depuis 5 ans, souffre d'une oligoasthénotératospermie (faible concentration, mobilité et forme anormale des spermatozoïdes)."
+    },
+    {
+        "nom_complet": "Imene Bensaadi",
+        "email": "i.bensaadi@example.com",
+        "tel": "0698123456",
+        "description": "Mariée depuis 2 ans, a une anomalie de l'utérus (utérus unicorne) qui peut affecter sa fertilité."
+    },
+    {
+        "nom_complet": "Abdou Kherfi",
+        "email": "a.kherfi@example.com",
+        "tel": "0689342176",
+        "description": "Marié depuis 4 ans, a une faible concentration de spermatozoïdes (oligospermie) qui peut affecter sa fertilité."
+    },
+    {
+        "nom_complet": "Houda Boudiaf",
+        "email": "h.boudiaf@example.com",
+        "tel": "0657812345",
+        "description": "Mariée depuis 3 ans, a subi une ablation d'un ovaire à cause d'un kyste ovarien."
+    }
+]

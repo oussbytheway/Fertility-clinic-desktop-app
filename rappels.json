@@ -1,0 +1,86 @@
+[
+    {
+        "patient": "Fatima Ait Ahmed",
+        "motif": "Préparation de la FIV",
+        "date": "2023-05-01",
+        "commentaire": "Il est recommandé que la patiente commence à prendre ses médicaments pour la stimulation ovarienne ce jour-là."
+    },
+    {
+        "patient": "Sofiane Boudjema",
+        "motif": "Suivi de stimulation ovarienne",
+        "date": "2023-05-01",
+        "commentaire": "Vérifier que la dose de médicament est adéquate et qu'il n'y a pas d'effets secondaires indésirables."
+    },
+    {
+        "patient": "Leila Khelifi",
+        "motif": "Consultation pré-FIV",
+        "date": "2023-05-02",
+        "commentaire": "Discuter des résultats des tests de laboratoire et des échographies pour s'assurer que la patiente est prête pour la FIV."
+    },
+    {
+        "patient": "Mehdi Toumi",
+        "motif": "Suivi de grossesse",
+        "date": "2023-05-02",
+        "commentaire": "Effectuer une échographie pour vérifier la croissance du fœtus et la santé de la mère."
+    },
+    {
+        "patient": "Nadia Bouzidi",
+        "motif": "Préparation de la FIV",
+        "date": "2023-05-02",
+        "commentaire": "Planifier la date du déclenchement de l'ovulation pour le prélèvement des ovocytes."
+    },
+    {
+        "patient": "Rachid Zouaoui",
+        "motif": "Consultation pré-FIV",
+        "date": "2023-05-02",
+        "commentaire": "Expliquer la procédure de la FIV et les risques associés pour obtenir le consentement éclairé du couple."
+    },
+    {
+        "patient": "Samira Meziane",
+        "motif": "Prélèvement d'ovocytes pour la FIV",
+        "date": "2023-06-03",
+        "commentaire": "Planifier l'heure du prélèvement d'ovocytes et s'assurer que la patiente suit les instructions pour la préparation."
+    },
+    {
+        "patient": "Amine Belkacem",
+        "motif": "Suivi de grossesse",
+        "date": "2023-06-03",
+        "commentaire": "Vérifier le poids de la mère et le développement du fœtus lors de cette consultation."
+    },
+    {
+        "patient": "Kenza Ben Ali",
+        "motif": "Consultation pré-FIV",
+        "date": "2023-06-03",
+        "commentaire": "Vérifier les antécédents médicaux de la patiente et du conjoint avant de planifier la procédure de FIV."
+    },
+    {
+        "patient": "Mounir Boumediene",
+        "motif": "Suivi de stimulation ovarienne",
+        "date": "2023-05-01",
+        "commentaire": "Vérifier que la dose de médicament est adéquate et qu'il n'y a pas d'effets secondaires indésirables."
+    },
+    {
+        "patient": "Sara Kaci",
+        "motif": "Préparation de la FIV",
+        "date": "2023-05-02",
+        "commentaire": "Fournir des instructions claires à la patiente pour la préparation à la FIV, y compris la prise de médicaments et la date du déclenchement de l'ovulation."
+    },
+    {
+        "patient": "Amar Djelloul",
+        "motif": "Suivi de grossesse",
+        "date": "2023-05-02",
+        "commentaire": "Vérifier la pression artérielle et les symptômes de la mère pour s'assurer que la grossesse se déroule bien."
+    },
+    {
+        "patient": "Nawel Chibani",
+        "motif": "Consultation pré-FIV",
+        "date": "2023-06-03",
+        "commentaire": "Discuter des options de financement de la FIV avec le couple et les orienter vers des ressources si nécessaire."
+    },
+    {
+        "patient": "Ali Hadjouti",
+        "motif": "Suivi de stimulation ovarienne",
+        "date": "2023-06-03",
+        "commentaire": "Vérifier que la dose de médicament est adéquate et qu'il n'y a pas d'effets secondaires indésirables."
+    }
+]
